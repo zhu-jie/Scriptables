@@ -17,7 +17,7 @@ class Im3xLoader {
       name: 'welcome',
       args: '',
       version: 'latest',
-      developer: 'im3x'
+      developer: 'zhu-jie'
     }
     let arg = args.widgetParameter || args['queryParameters']['__widget__']
     // widget@version:params
